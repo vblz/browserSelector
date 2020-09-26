@@ -1,0 +1,8 @@
+default = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+
+[browsers.ie]
+path = "C:\\Program Files\\Internet Explorer\\iexplore.exe"
+words = [
+    "yandex.com.tr",
+    "myword"
+]
